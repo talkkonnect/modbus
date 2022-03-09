@@ -1,5 +1,5 @@
-#Test Code with ETT MODVYS RTU Relay4/IN4
-#By Suvir Kumar 09/03/2022
+//Test Code with ETT MODVYS RTU Relay4/IN4
+//By Suvir Kumar 09/03/2022
 package main
 
 import (
